@@ -1,6 +1,6 @@
-# ImageTransformation
+# Image Transformation
+### Program Description: 
 
-Program Description: 
 This program will read in a .ppm file specified by the
 command-line argument following the name of the executable/binary file.
 The program will then perform one of four image transformations: grayscale,
