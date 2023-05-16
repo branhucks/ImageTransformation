@@ -7,3 +7,10 @@ The program will then perform one of four image transformations: grayscale,
 invert, rotate, or shrink. The program will then save the new transformed
 image to a new .ppm file adding "_theexecutedtransformation" to the end of the
 original filename.
+
+---
+
+### Related Topics:
+- File I/O
+- Parsing .ppm file
+- Pointers
